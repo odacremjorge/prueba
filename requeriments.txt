@@ -1,0 +1,6 @@
+flask
+pymysql
+flask-sqlalchemy
+pillow
+flask_bcrypt
+flask_login
